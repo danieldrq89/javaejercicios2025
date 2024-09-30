@@ -34,9 +34,9 @@ public class main {
 			}
 		System.out.println("-----------------------------------------");
 		//EJERCICIO 5
-		int x = 1;
-		int y = 1;
-		int z = 2;
+		int x = 2;
+		int y = 2;
+		int z = 3;
 		double elevado = Math.pow(x, y); 
 		int convertido = (int)elevado ; // De double a int
 		
